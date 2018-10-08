@@ -1,8 +1,7 @@
 #include<iostream>
-#include"BinTree.h"
-
+#include"BinThrTree.h"
 
 int main()
 {
-	Test_traversal();
+	Test_BinThrTree();
 }

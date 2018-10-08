@@ -24,6 +24,12 @@
     <ClInclude Include="Node.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CirQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinThrTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="源.cpp">

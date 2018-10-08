@@ -76,9 +76,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BinThrTree.h" />
     <ClInclude Include="BinTree.h" />
     <ClInclude Include="SeqStack.h" />
     <ClInclude Include="Node.h" />
+    <ClInclude Include="CirQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="源.cpp" />

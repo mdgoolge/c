@@ -18,3 +18,4 @@ typedef struct{
 	int top;
 }SeqStack;
 SeqStack S;
+
