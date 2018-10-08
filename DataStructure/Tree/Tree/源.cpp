@@ -1,7 +1,8 @@
 #include<iostream>
-#include"BinThrTree.h"
+#include"HuffmanTree.h"
 
 int main()
 {
-	Test_BinThrTree();
+	HuffmanTree ht;
+	ChuffmanTree(ht);
 }

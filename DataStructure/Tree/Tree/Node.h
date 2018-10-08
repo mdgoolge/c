@@ -45,3 +45,12 @@ typedef struct{
 	PANode nodes[MaxTreeSize];
 	int n, r;
 }CTree;
+
+//哈夫曼的存储结构
+#define n 4
+#define m 2*n-1
+typedef struct{
+	float weight;
+	int lchild ,rchild, parent;
+}HTNode;
+typedef HTNode HuffmanTree[m + 1];//0号单元不用

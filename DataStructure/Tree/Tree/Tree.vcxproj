@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClInclude Include="BinThrTree.h" />
     <ClInclude Include="BinTree.h" />
+    <ClInclude Include="HuffmanTree.h" />
     <ClInclude Include="SeqStack.h" />
     <ClInclude Include="Node.h" />
     <ClInclude Include="CirQueue.h" />
