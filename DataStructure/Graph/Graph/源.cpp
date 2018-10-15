@@ -3,5 +3,5 @@
 
 int main()
 {
-	Test_CreateMGraph();
+	Test_DFS();
 }
